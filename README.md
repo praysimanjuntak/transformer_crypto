@@ -1,5 +1,9 @@
 # BTC Transformer: Can Transformers Predict Crypto Prices?
 
+[![GitHub stars](https://img.shields.io/github/stars/praysimanjuntak/transformer_crypto?style=social)](https://github.com/praysimanjuntak/transformer_crypto/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
 A systematic empirical study testing whether decoder-only transformers can predict short-term cryptocurrency and gold price movements.
 
 **TL;DR:** After 10 experiments across different architectures, loss functions, assets, and timeframes, all approaches failed to beat the naive baseline of "predict no change." Short-term price movements appear to be fundamentally unpredictable.
