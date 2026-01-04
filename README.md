@@ -26,8 +26,8 @@ A systematic empirical study testing whether decoder-only transformers can predi
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/btc-transformer.git
-cd btc-transformer
+git clone https://github.com/praysimanjuntak/transformer_crypto.git
+cd transformer_crypto
 
 # Create virtual environment
 python -m venv .venv
@@ -174,11 +174,11 @@ Short-term price movements appear to be fundamentally unpredictable using price 
 If you use this code in your research, please cite:
 
 ```
-@misc{btc-transformer-2025,
-  author = {Your Name},
-  title = {BTC Transformer: Empirical Study on Price Prediction},
+@misc{transformer-crypto-2025,
+  author = {Pray Apostel},
+  title = {Transformer Crypto: Empirical Study on Price Prediction},
   year = {2025},
-  url = {https://github.com/YOUR_USERNAME/btc-transformer}
+  url = {https://github.com/praysimanjuntak/transformer_crypto}
 }
 ```
 
