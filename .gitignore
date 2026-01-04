@@ -1,0 +1,21 @@
+# Data
+btcusdt/
+xauusd/
+*.csv
+
+# Model checkpoints
+*.pt
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
